@@ -26,6 +26,6 @@ Analyze user-generated content from social media to classify sentiment (positive
 - `data/`: Sample dataset
 - `images/`: Key visualizations
 - `Sentiment_Analysis_Final_Presentation.pdf`: Final Presentation
-
+-  `daily_sentiment_emoji_autoplay_large.html`: Over the time sentiment grouping across the world
 ## 👤 Author
 Anushka Garg | MSCS @ NYU
